@@ -5,3 +5,5 @@ Pour notre projet de fin d'année, nous avons décidé de réaliser une applicat
 Notre application pour l'instant se concentre sur des objets de petites tailles tels que des ustensiles de cuisine.
 
 L'application est utilisable uniquement par des téléphones android. De plus, l'une des fonctionnalités ne peut être utilisées que par des téléphones très récents tels que le samsung galaxy s7.
+
+Voir dans project pour l apk
